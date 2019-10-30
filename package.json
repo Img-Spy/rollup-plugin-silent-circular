@@ -1,0 +1,12 @@
+{
+  "name": "rollup-plugin-silent-circular",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Fernando Roman <fer.roman92@gmail.com>",
+  "repository": "Img-Spy/rollup-plugin-silent-circular",
+  "description": "A rollup plugin to silent circular dependecy warnings",
+  "license": "MIT",
+  "dependencies": {
+    "rollup-pluginutils": "^2.6.0"
+  }
+}
